@@ -1,10 +1,14 @@
-.identite{
-background-color: blue;
-padding-top: 0em;
+.form1, .legend1{
+    background-color: #2574a9;
 }
-.adresse{
-    background-color: hsl(286, 96%, 35%)
+
+.form2, .legend2{
+    background-color: #9a12b3;
 }
-.information{
-    background-color: #FE2E2E;
+
+.form3, .legend3{
+    background-color: #db0a5b;
+}
+#creditCardsList{
+    list-style: none;
 }
